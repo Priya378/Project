@@ -1,10 +1,9 @@
 # wol-sample-application
 
-Sample project of Week of Learning Webathon
+Project of Week of Learning Webathon
 
 ## Description
-
-For the webathon project, if you are not sure about what to create, you can make your project based on this project.
+A simple project to give beginners an overview on HTML, CSS and Java Script
 
 ## Download
 
